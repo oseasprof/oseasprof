@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, seja bem vindo ao meu repositório! 🇧🇷
 
-<!--
-**oseasprof/oseasprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Oseas Monteiro
 
-Here are some ideas to get you started:
+- Estou estudando Tecnologia e Robótica na [Alura](https://www.alura.com.br);
+- Estou me desenvolvendo na linguagem JavaScript, CSS e HTML;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo! 📬
+oseas@professor.educacao.sp.gov.br
+
+@oseasprof
+
+
+![](https://media1.tenor.com/m/hVcRn6KeIJ0AAAAd/elvis-presley-king-creole.gif)
+

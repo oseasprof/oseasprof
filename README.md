@@ -12,5 +12,5 @@ oseas@professor.educacao.sp.gov.br
 @oseasprof
 
 
-![](https://media1.tenor.com/m/hVcRn6KeIJ0AAAAd/elvis-presley-king-creole.gif)
+![](https://tenor.com/pt-BR/view/excited-so-gif-23170060)
 
